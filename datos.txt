@@ -1,0 +1,6 @@
+escribir "Introduzca las notas"
+leer NOTA1,NOTA2
+SUMA = NOTA1 + NOTA2
+PRODUCTO = NOTA1 * NOTA2
+escribir "La suma de las dos notas es:" SUMA
+escribir "El producto de las dos notas es :" PRODUCTO
